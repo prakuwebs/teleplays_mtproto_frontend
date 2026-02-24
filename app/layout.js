@@ -1,4 +1,4 @@
-export const metadata = { title: "TelePlayss" };
+export const metadata = { title: "TelePlays" };
 export default function RootLayout({ children }) {
   return (
     <html>
